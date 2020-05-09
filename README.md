@@ -1,7 +1,7 @@
 # Yelp Analysis on Google Cloud Platform
 
 ### Log notes during development
-* git instructions:
+*git instructions:
 - cd <folder on GCP instance>
 - git init
 - git add .
