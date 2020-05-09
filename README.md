@@ -1,5 +1,4 @@
-# yelp_analysis
-# Google Cloud Project for analyzing businesses in the Yelp dataset
+# Yelp Analysis on Google Cloud Platform
 
 ## Log notes during development
 
