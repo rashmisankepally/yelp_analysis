@@ -4,8 +4,8 @@ This project performs analysis on the Yelp review dataset found here: https://ww
 
 There kinds of analysis are performed:
 * Exploratory Analysis
-* Sentiment Analysis
-* Analysis of factors affecting reviews
+* Sentiment Analysis (https://github.com/rashmisankepally/yelp_analysis/blob/master/sentiment_anslysis.ipynb)
+* Analysis of factors affecting reviews (https://github.com/rashmisankepally/yelp_analysis/blob/master/parse_nouns_adj.ipynb)
 
 
 
