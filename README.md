@@ -1,5 +1,14 @@
 # Yelp Analysis on Google Cloud Platform
 
+This project performs analysis on the Yelp review dataset found here: https://www.kaggle.com/yelp-dataset/yelp-dataset
+
+There kinds of analysis are performed:
+* Exploratory Analysis
+* Sentiment Analysis
+* Analysis of factors affecting reviews
+
+
+
 ### Log notes during development
 git instructions:
 - cd <folder on GCP instance>
