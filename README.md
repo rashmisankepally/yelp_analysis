@@ -1,13 +1,15 @@
 # Yelp Analysis on Google Cloud Platform
 
-This project performs analysis on the Yelp review dataset found here: https://www.kaggle.com/yelp-dataset/yelp-dataset
+This repository corresponds to a project that performs analysis on the Yelp review dataset found here: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
 There kinds of analysis are performed:
 * Exploratory Analysis
-* Sentiment Analysis (https://github.com/rashmisankepally/yelp_analysis/blob/master/sentiment_anslysis.ipynb)
-* Analysis of factors affecting reviews (https://github.com/rashmisankepally/yelp_analysis/blob/master/parse_nouns_adj.ipynb)
+* Sentiment Analysis [sentiment_analysis.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/sentiment_anslysis.ipynb)
+* Analysis of factors affecting reviews [parse_nouns_adj.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/parse_nouns_adj.ipynb)
 
+All jupyter notebooks are commented appropriately. 
 
+Most of the visualizations can be found here: [visualize.ipynb]
 
 ### Log notes during development
 git instructions:
