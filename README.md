@@ -11,6 +11,8 @@ All jupyter notebooks are commented appropriately.
 
 ## Most of the visualizations can be found here: [visualize.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/Visualize.ipynb)
 
+The image below is a snapshot of the intermediate files that were generated from processing the original Yelp Dataset.
+
 ![File Size](https://github.com/rashmisankepally/yelp_analysis/blob/master/FileSizes.png)
 
 
