@@ -9,7 +9,7 @@ There kinds of analysis are performed:
 
 All jupyter notebooks are commented appropriately. 
 
-## The visualizations can be found here: [visualize.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/Visualize.ipynb)
+## The final analysis and visualizations can be found here: [visualize.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/Visualize.ipynb)
 
 The image below is a snapshot of the intermediate files that were generated from processing the original Yelp Dataset.
 
