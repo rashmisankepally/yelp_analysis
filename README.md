@@ -9,7 +9,11 @@ There kinds of analysis are performed:
 
 All jupyter notebooks are commented appropriately. 
 
-Most of the visualizations can be found here: [visualize.ipynb]
+## Most of the visualizations can be found here: [visualize.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/Visualize.ipynb)
+
+![File Size](https://github.com/rashmisankepally/yelp_analysis/blob/master/FileSizes.png)
+
+
 
 ### Log notes during development
 git instructions:
