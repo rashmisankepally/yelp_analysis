@@ -4,7 +4,7 @@ This repository corresponds to a project that performs analysis on the Yelp revi
 
 There kinds of analysis are performed:
 * Exploratory Analysis
-* Sentiment Analysis [sentiment_analysis.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/sentiment_anslysis.ipynb)
+* Sentiment Analysis [sentiment_analysis.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/sentiment_analysis.ipynb)
 * Analysis of factors affecting reviews [parse_nouns_adj.ipynb](https://github.com/rashmisankepally/yelp_analysis/blob/master/parse_nouns_adj.ipynb)
 
 All jupyter notebooks are commented appropriately. 
